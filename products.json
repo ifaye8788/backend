@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "code": "P001",
+    "name": "Product 1",
+    "description": "Description for Product 1",
+    "price": 100,
+    "quantity": 10,
+    "inventoryStatus": "In Stock",
+    "category": "Category 1",
+    "image": "image1.png",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "code": "P002",
+    "name": "Product 2",
+    "description": "Description for Product 2",
+    "price": 150,
+    "quantity": 5,
+    "inventoryStatus": "Low Stock",
+    "category": "Category 2",
+    "image": "image2.png",
+    "rating": 4
+  }
+]
